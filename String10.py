@@ -7,6 +7,5 @@ def main(x,y):
     Returns:
         str: return answer.
     """
-    z = (x+y)*2
-    return {z}
+    return '(x+y)*2={10}'
 print(main(2,3))    
