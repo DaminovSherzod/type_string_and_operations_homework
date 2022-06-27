@@ -5,5 +5,5 @@ def main():
     Returns:
         str: return answer.
     """
-    return len('aaaazzzz')
+    return 'aaaazzzz'
     
