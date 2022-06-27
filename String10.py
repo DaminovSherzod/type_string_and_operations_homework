@@ -7,5 +7,6 @@ def main(x,y):
     Returns:
         str: return answer.
     """
-    return (x+y)*2
+    z = (x+y)*2
+    return {z}
 print(main(2,3))    
