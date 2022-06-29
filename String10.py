@@ -9,4 +9,5 @@ def main(x,y):
     """
     z = (x+y)*2
     return '('+str(x)+'+'+str(y)+')*2='+str({z})
+    
 print(main(2,3))    
