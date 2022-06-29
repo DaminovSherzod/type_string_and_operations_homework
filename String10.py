@@ -8,6 +8,6 @@ def main(x,y):
         str: return answer.
     """
     z = (x+y)*2
-    return '('+str(x)+'+'+str(y)+')*2='+str({z})
-    
+    return '('+str(x)+'+'+str(y)+')*2='+str(z)
+
 print(main(2,3))    
